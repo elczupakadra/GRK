@@ -8,6 +8,7 @@ background(100);
 }
 function draw() {  
 //noprotect
+ 
 
 for(y=0; y<height; y++)
    for(x=0; x<width; x++) {
